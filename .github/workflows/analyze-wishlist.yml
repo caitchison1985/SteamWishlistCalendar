@@ -1,9 +1,9 @@
 name: analyze-wishlist
 
 on:
-  schedule:
-    - cron: '0 4 */7 * *' # 4:00 UTC every 7 days
-  workflow_dispatch:
+    schedule:
+    - cron: '0 4 * * *' # 4:00 UTC every day 
+    workflow_dispatch:
 
 permissions: {}
 
