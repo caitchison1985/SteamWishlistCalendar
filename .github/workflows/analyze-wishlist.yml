@@ -2,7 +2,8 @@ name: analyze-wishlist
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '17 5 * * *'
+      timezone: "Europe/London"
   workflow_dispatch:
 
 permissions: {}
