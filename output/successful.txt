@@ -52,6 +52,7 @@ The Expanse: Osiris Reborn		2027-06-30
 Westlanders		2027-12-31
 1666: Amsterdam		2026-08-25
 How to Fish		2026-08-20
+Online: 404		2026-10-21
 Coin Maker Simulator		2027-03-31
 Data Center		2026-03-31
 Pratfall		2026-04-20
