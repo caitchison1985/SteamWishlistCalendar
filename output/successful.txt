@@ -57,6 +57,7 @@ Coin Maker Simulator		2027-03-31
 Data Center		2026-03-31
 Pratfall		2026-04-20
 Sol One		2026-11-13
+Monster Hatcher		2026-10-27
 THE DEAD WE KNEW: Open World Survival		2026-10-22
 Fart Together		2026-10-29
 Find The Needle		2026-12-31
