@@ -41,6 +41,7 @@ MUDANG: Two Hearts		2026-12-31
 Windrose		2026-04-14
 PIONER		2025-12-16
 Witchfire		2024-09-23
+ArcheAge Chronicles		2026-11-03
 SpaceCraft		2026-06-11
 PRAGMATA		2026-04-17
 JOIN US		2027-03-31
@@ -58,7 +59,8 @@ Data Center		2026-03-31
 Pratfall		2026-04-20
 Sol One		2026-11-13
 Monster Hatcher		2026-10-27
+Ticker Panic: Stock Market Simulator		2027-03-30
 THE DEAD WE KNEW: Open World Survival		2026-10-22
 Fart Together		2026-10-29
-Find The Needle		2026-12-31
+Find The Needle		2026-11-06
 A Place for Every Potion		2026-10-28
