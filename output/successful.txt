@@ -45,7 +45,6 @@ ArcheAge Chronicles		2026-11-03
 SpaceCraft		2026-06-11
 PRAGMATA		2026-04-17
 JOIN US		2027-03-31
-ORMOD: Directive		2026-12-31
 Samson		2026-04-08
 Farever		2026-05-06
 Funnel Runners		2026-07-16
