@@ -30,16 +30,17 @@ Solo Leveling: ARISE OVERDRIVE		2025-11-24
 Heavenly Bodies - Cleanup DLC		2023-07-26
 Phantom Line		2027-12-31
 SLEEP AWAKE		2025-12-02
-Main Sequence		2026-11-12
 Icaria		2026-06-16
 DON'T SCREAM TOGETHER		2025-12-03
 ASTROBOTANICA		2026-02-16
 Fable		2027-02-23
 Lay of the Land		2026-04-08
+Stormforge		2026-11-10
 Outward 2		2027-02-08
 Windrose		2026-04-14
 PIONER		2025-12-16
 Witchfire		2024-09-23
+On The Train		2026-11-12
 SpaceCraft		2026-06-11
 JOIN US		2027-03-31
 Samson		2026-04-08
@@ -57,6 +58,6 @@ Sol One		2026-11-13
 Monster Hatcher		2026-10-27
 Ticker Panic: Stock Market Simulator		2027-03-30
 THE DEAD WE KNEW: Open World Survival		2026-10-22
+Network & Cyber Security Simulator		2026-11-20
 Find The Needle		2026-11-06
 A Place for Every Potion		2026-10-28
-Evidence Vault		2026-11-12
